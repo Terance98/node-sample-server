@@ -1,0 +1,23 @@
+{
+  "name": "sample-server",
+  "version": "1.0.0",
+  "description": "A sample server based on express.js to test out ec2 machines or server hosting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terance98/node-sample-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terance98/node-sample-server/issues"
+  },
+  "homepage": "https://github.com/Terance98/node-sample-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
